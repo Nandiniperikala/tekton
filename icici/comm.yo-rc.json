@@ -1,0 +1,14 @@
+[
+  {
+    "client": "axis",
+    "server": "icici",
+    "type": "sync",
+    "framework": "rest-api"
+  },
+  {
+    "client": "icici",
+    "server": "andhra",
+    "type": "async",
+    "framework": "rabbitmq"
+  }
+]
