@@ -132,6 +132,7 @@ The generated application also includes keycloak, jhipster registry (based on eu
 - docker run -it --network="host" -p <port_number>:<port_number> -e db_url=postgresql://go@localhost:5433/postgres image_name
 
 ### Run by passing 3 ENV values
+### Run by passing 3 ENV values
 
 ```
 docker run -it --network="host" -p <port_number>:<port_number> \
