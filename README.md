@@ -42,8 +42,7 @@ reminder.jdl
 
 Below is the directory structure once application code is generated.
 
-npm link generator-jhipster-gomicro
-npm link generator-jhipster-gomicro
+
 
 ```
 .
