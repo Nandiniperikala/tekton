@@ -43,6 +43,7 @@ reminder.jdl
 Below is the directory structure once application code is generated.
 
 
+Below is the directory structure once application code is generated.
 
 ```
 .
