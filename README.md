@@ -43,8 +43,6 @@ reminder.jdl
 Below is the directory structure once application code is generated.
 
 
-Below is the directory structure once application code is generated.
-
 ```
 .
 ├── be1 (backend microservice 1)
