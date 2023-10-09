@@ -1,6 +1,10 @@
 # Go Application
 
-`npm install -g generator-jhipster`
+Prerequisites: _Go, Node, Docker_
+
+# Prerequisites: _Go, Node, Docker_
+
+Installation: `npm install -g generator-jhipster`
 
 Link:
 
