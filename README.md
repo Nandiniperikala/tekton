@@ -1,7 +1,6 @@
 # Go Application
 
-
-Installation: `npm install -g generator-jhipster`
+`npm install -g generator-jhipster`
 
 Link:
 
