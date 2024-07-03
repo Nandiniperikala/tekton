@@ -10,6 +10,7 @@ RUN go mod tidy && go mod download
 
 RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o icici
 #ftdd
+#jgfg
 EXPOSE 5003
 
 FROM scratch
